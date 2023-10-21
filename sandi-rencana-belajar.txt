@@ -1,3 +1,5 @@
 rencana belajar
 -belajar laravel
 -'belajar framwork javascript
+  -react.js
+  -node.js

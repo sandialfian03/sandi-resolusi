@@ -1,0 +1,3 @@
+rencana belajar
+-belajar laravel
+-'belajar framwork javascript
